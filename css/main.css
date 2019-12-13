@@ -1514,9 +1514,9 @@ header .header-logo a {
   width: 100%;
   height: 100%;
   background-color: #151515;
-  background-image: url(../images/glass_noname1.png);
+  background-image: url(../images/glass1.png);
   background-repeat: no-repeat;
-  background-position: left-center; 
+  background-position: center 30%; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -1695,6 +1695,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 768px) {
   .home-content-tablecell .row {
     max-width: 600px;
+    background-color: #ed9200;
   }
   .home-content-tablecell h3 {
     font-size: 1.8rem;
@@ -1724,6 +1725,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 600px) {
   #home {
     min-height: 702px;
+    background-color: #ed9200;
   }
 
   .home-content-tablecell .row {
@@ -1741,6 +1743,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 500px) {
   .home-content-tablecell .row {
     max-width: 420px;
+    background-color: #ed9200;
   }
   .home-content-tablecell h3 {
     font-size: 1.5rem;
@@ -1761,6 +1764,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 400px) {
   #home {
     min-height: 654px;
+    background-color: #ed9200;
   }
 
   .home-content-tablecell .row {
