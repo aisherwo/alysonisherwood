@@ -1695,6 +1695,8 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 768px) {
   .home-content-tablecell .row {
     max-width: 600px;
+    
+    
   }
   .home-content-tablecell h3 {
     font-size: 1.8rem;
@@ -1724,12 +1726,14 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 600px) {
   #home {
     min-height: 702px;
+     background: #41958d;
   }
 
   .home-content-tablecell .row {
     max-width: 480px;
     padding-top: 12rem;
     padding-bottom: 12rem;
+     background: #41958d;
   }
   .home-content-tablecell h3 {
     font-size: 1.7rem;
@@ -1741,6 +1745,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 500px) {
   .home-content-tablecell .row {
     max-width: 420px;
+     background: #41958d;
   }
   .home-content-tablecell h3 {
     font-size: 1.5rem;
@@ -1761,6 +1766,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 400px) {
   #home {
     min-height: 654px;
+     background: #41958d;
   }
 
   .home-content-tablecell .row {
