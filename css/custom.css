@@ -781,3 +781,10 @@ header .overlay {
     border-color: #ed9200;
 
     }
+	
+	.image1{
+height:200px;
+}
+.image1:hover{
+height:400px;
+}
